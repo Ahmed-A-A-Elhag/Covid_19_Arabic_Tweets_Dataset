@@ -10,4 +10,4 @@ The features that we had in hand was the creation date of the tweet, the content
 
 # Twitter API
 
-You can go through API_search nootbook to see how Twitter API is used to get tweets for one day.
+You can go through API_SEARCH.ipynb nootbook to see how Twitter API is used to get tweets for one day.
